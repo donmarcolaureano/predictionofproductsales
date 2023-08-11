@@ -3,8 +3,10 @@
 - The goal is to help the retailer understand the properties of products and outlets that play crucial roles in increasing sales
 
 ## Introduction
-## This chart shows the amount of products sold by item type
+## Products sold by item type
 ![Prediction of products sold_sales by item Type](https://github.com/donmarcolaureano/predictionofproductsales/assets/140132043/d621f481-9983-4da1-9da6-4931aa194c73)
+- Fruits and vegetables were the highest selling category
 #
-## Heatmap of Item Sales
-![Prediciton of product sales heatmap](https://github.com/donmarcolaureano/predictionofproductsales/assets/140132043/26e757ed-c1ae-4d5e-9b77-c161c63589c3)
+## Sales by outlet type
+![Prediction of product sales_Sales By Outlet Type](https://github.com/donmarcolaureano/predictionofproductsales/assets/140132043/230562c9-4180-4d20-a578-5c2bfa6e7ca0)
+- Supermarket Type 1 sold a significant more than the other outlet types
