@@ -78,4 +78,6 @@ Based off of the different models, I would recommend using the tuned Random Fore
 - The outlet established in 1998 had the lowerst number of product sales, being significantly lower than all other stores
 
 # Recommendations
-Supermarket Type 1 sold more products than all three of the the other outlet types combined
+Supermarket Type 1 sold more products than all three of the the other outlet types combined. Since the top three selling product types are Fruits & Vegetables, Snack Foods, and Household Goods, we need to make sure that the other outlet types are adequately stocked with these product types and perhaps even have exclusive products only available at those locations.
+
+In order to increase profits, one thing we can also do is decrease expenses by closing down the outlet established in 1998 and distributing the inventory amongst the other stores appropriately
