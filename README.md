@@ -77,6 +77,19 @@ Based off of the different models, I would recommend using the tuned Random Fore
 - The oldest established outlet had the highest number of product sales.
 - The outlet established in 1998 had the lowerst number of product sales, being significantly lower than all other stores
 
+#
+###
+<img width="818" alt="Feature Importances" src="https://github.com/donmarcolaureano/predictionofproductsales/assets/140132043/a6e2809f-a862-4f3a-a461-155df7e24bba">
+-The image above shows the top 10 most important features. We'll focus on the top 5, which are Item MRP, Outlet Type - Grocery Store, Item Visibility, Item Weight, and Outlet Type - Supermarket 3. These five were the most helpful in growing/sorting the tree-based model
+
+#
+###
+<img width="749" alt="Top Coefficients" src="https://github.com/donmarcolaureano/predictionofproductsales/assets/140132043/177b3bc8-0aec-4d12-b877-e62ed80043bd">
+-
+
+
+
+
 # Recommendations
 Supermarket Type 1 sold more products than all three of the the other outlet types combined. Since the top three selling product types are Fruits & Vegetables, Snack Foods, and Household Goods, we need to make sure that the other outlet types are adequately stocked with these product types and perhaps even have exclusive products only available at those locations.
 
