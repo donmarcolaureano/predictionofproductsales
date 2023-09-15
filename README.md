@@ -80,14 +80,12 @@ Based off of the different models, I would recommend using the tuned Random Fore
 #
 ###
 <img width="818" alt="Feature Importances" src="https://github.com/donmarcolaureano/predictionofproductsales/assets/140132043/a6e2809f-a862-4f3a-a461-155df7e24bba">
--The image above shows the top 10 most important features. We'll focus on the top 5, which are Item MRP, Outlet Type - Grocery Store, Item Visibility, Item Weight, and Outlet Type - Supermarket 3. These five were the most helpful in growing/sorting the tree-based model
+-The image above shows the top 10 most important features. We'll focus on the top 5, which are Item MRP, Outlet Type - Grocery Store, Item Visibility, Item Weight, and Outlet Type - Supermarket 3. These five were the most helpful in growing/sorting the tree-based model. 
 
 #
 ###
 <img width="749" alt="Top Coefficients" src="https://github.com/donmarcolaureano/predictionofproductsales/assets/140132043/177b3bc8-0aec-4d12-b877-e62ed80043bd">
--
-
-
+- The top 3 coefficients are Outlet Location Type Tier 2, Outlet Identifier - OUT049, and Outlet Location Type - Tier 3. Sales from these locations positively influence the target (Item Outlet Sales)
 
 
 # Recommendations
